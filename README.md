@@ -79,7 +79,7 @@ The dataset includes information about customers, vendors, products, sales trans
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="PASTE_YOUR_IMAGE_LINK_HERE" alt="Farmers Market Dashboard" width="900"/>
+  <img src="https://github.com/pratikshabadakh/Farmers-Market-Sales-Customer-Insights-Dashboard/blob/main/Farmers%20Market%20Sales%20%26%20Customer%20Insights%20Dashboard%20(3).png" alt="Farmers Market Dashboard" width="900"/>
 </p>
 
 
@@ -89,7 +89,3 @@ The dataset includes information about customers, vendors, products, sales trans
 **Pratiksha Badakh**
 Aspiring Data Engineer & Data Analyst
 Skills: SQL • Python • Power BI • Hadoop • Spark • AWS • Azure
-
----
-
-⭐ *If you found this project useful, consider giving it a star!*
