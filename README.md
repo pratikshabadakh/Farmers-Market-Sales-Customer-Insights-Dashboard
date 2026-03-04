@@ -14,7 +14,6 @@ It enables stakeholders to quickly identify revenue drivers, high-value customer
 * **Microsoft Excel / CSV** – Data cleaning and preprocessing
 * **DAX** – KPI measures and calculated metrics
 
----
 
 ## 📂 Data Source
 
